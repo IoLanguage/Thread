@@ -1,0 +1,15 @@
+{
+  "name":         "Thread",
+  "version":      "0.1",
+  "description":  "For native threads",
+  "author":       "Steve Dekorte",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["Thread"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  [],
+    "protos":   [],
+    "packages": []
+  }
+}
